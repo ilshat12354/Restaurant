@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Restaurant App</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string-array name="menuItems">
+        <item>Бургер</item>
+        <item>Пицца</item>
+        <item>Сок</item>
+        <item>Сэндвич</item>
+        <item>Паста</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Сэндвич с говядиной</item>
+        <item>Пицца с моцареллой</item>
+        <item>Манговый сок</item>
+        <item>Есть разные типы</item>
+        <item>Паста с красным соусом</item>
+    </string-array>
+
+    <string-array name="Prices">
+        <item>150</item>
+        <item>120</item>
+        <item>70</item>
+        <item>70</item>
+        <item>200</item>
+    </string-array>
+
+    <string-array name="Time">
+        <item>20</item>
+        <item>30</item>
+        <item>5</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+</resources>
